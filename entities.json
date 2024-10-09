@@ -1,0 +1,13 @@
+[
+    {
+        "name": "TRIP_NUM",
+        "join_keys": ["TRIP_ID"],
+        "desc": "Trip Unique Number"
+    },
+    {
+        "name": "DROP_OFF_LOC",
+        "join_keys": ["DOLOCATIONID"],
+        "desc": "Drop off loc id."
+    }
+]
+

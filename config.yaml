@@ -1,0 +1,17 @@
+connection_parameters : 
+  account       : "ska58151.us-east-1"
+  user          : "MALLESWARI.GELLI@SYNGENTA.COM"  
+  role          : "FEATLK_NONPROD_DEVELOPER_ROLE"  
+  database      : "FEATLK_DEV"  
+  schema        : "FEATLK_DATA"
+  warehouse     : "FEATLK_INGEST_DEV"
+  authenticator : "externalbrowser"
+
+source_table    : "NYC_YELLOW_TRIPS"
+fea_store_name : "NYC_store"
+entity_name : "DROP_OFF_LOC"
+feature_view_name : "NYC_FV_Snowpark_df"
+version : "1"
+
+entity_parameters_json      : "entities.json"
+featureview_parameters_json : "featureview.json"

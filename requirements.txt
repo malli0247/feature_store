@@ -1,0 +1,7 @@
+snowflake-snowpark-python
+snowflake
+pyyaml
+pandas >=1.0.0
+jupyterlab
+pyspark 
+-e .
