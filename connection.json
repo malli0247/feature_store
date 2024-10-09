@@ -1,9 +1,0 @@
-{
-  "account"       : "ska58151.us-east-1",
-  "user"          : "MALLESWARI.GELLI@SYNGENTA.COM",  
-  "role"          : "FEATLK_NONPROD_DEVELOPER_ROLE",  
-  "database"      : "FEATLK_DEV",  
-  "schema"        : "FEATLK_DATA",
-  "warehouse"     : "FEATLK_INGEST_DEV",
-  "authenticator" : "externalbrowser"
-}
